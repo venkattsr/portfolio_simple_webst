@@ -1,0 +1,99 @@
+    body{
+        font-family: "Young Serif", serif;
+        .section_one{
+            background-color: green;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        .section_one_name{
+            font-size: 55px;
+        }
+        .section_one_Role{
+            font-size: 30px;
+        }
+        .section_one_contact{
+            background-color: rgb(174, 23, 68);
+            color: white;
+            text-decoration: none;
+            margin: 10px;
+            padding: 10px;
+        } 
+        .container{
+            padding: 20px;
+        }   
+
+        .section_two{
+            margin: 10px;
+        }
+        .section_two_title{
+            margin-left: 10px;
+        }
+        .section_two_description{
+            margin-left: 40px;
+            padding: 10px;
+        }
+        .section_six{
+            background-color: black;
+            color: white;
+            padding: 10px;
+        }
+        .section_six_title a{
+            color: skyblue;}
+        .section_five li{
+            list-style: none;
+        }
+        .section_three li,.section_four li{
+            list-style: none;
+        }
+        .section_three{
+            background-color: #6462FD;
+            color: black;
+            padding: 20px;
+            display: inline-block;
+            border-radius: 12px;
+            vertical-align: top;
+        }
+        .section_four{
+            background-color: #FE7517;
+            color: black;
+            padding: 20px;
+            display: inline-block;
+            border-radius: 12px;
+            vertical-align: top;
+            height: 330px;}
+            .section_five{
+                background-color: #FE7689;
+                color: black;
+                padding: 20px;
+                display: inline-block;
+                border-radius: 12px;
+                vertical-align: top;
+                width: 150px;}
+            .contact_form_{
+                margin-top: 20px;
+
+            }
+            .contact_form_input,.contact_form_textarea,.contact_form_Submit{
+                margin-top: 10px;
+            }
+            .contact_form_input{
+                padding: 10px;
+                border: none;
+                border-bottom: solid black 1px;
+            }
+            .contact_form_textarea{
+                padding: 10px;
+                border: none;
+                border: solid black 1px;
+            }
+            .contact_form_Submit{
+                padding-left: 10px;
+                padding-right: 10px;
+                padding-top: 15px;
+                padding-bottom: 15px;
+                background-color: orangered;
+                color: black;
+                border: none;
+                font-size: 15px;
+           }
